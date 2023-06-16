@@ -1,4 +1,4 @@
-import react from '@vitejs/plugin-react';
+import react from "@vitejs/plugin-react-swc";
 import type { UserConfigFn } from 'vite';
 import { overrideVaadinConfig } from './vite.generated';
 
